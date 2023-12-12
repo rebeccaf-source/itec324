@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rebec
+ *
+ */
+module VendingMachine {
+}
